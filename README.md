@@ -1,2 +1,3 @@
 # jaimewai.github.io
-personal website; a work in progress!
+personal website; 
+my first one so it is still a work in progress!
